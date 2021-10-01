@@ -1,0 +1,22 @@
+{
+  "name": "blockchain-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoo-swap/blockchain-fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoo-swap/blockchain-fetcher/issues"
+  },
+  "homepage": "https://github.com/zoo-swap/blockchain-fetcher#readme",
+  "dependencies": {
+    "web3": "^1.6.0"
+  }
+}
