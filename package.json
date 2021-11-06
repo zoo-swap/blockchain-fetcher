@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zoo-swap/blockchain-fetcher#readme",
   "dependencies": {
+    "@liuxingfeiyu/zoo-core": "^1.0.4",
     "web3": "^1.6.0"
   }
 }
